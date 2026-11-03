@@ -41,6 +41,7 @@ var predefinedRules = map[string]string{
 	"pseudo-sciences.org":    "#art_main",
 	"quantamagazine.org":     ".outer--content, figure, script",
 	"raywenderlich.com":      "article",
+	"reddit.com":             "shreddit-post-text-body",
 	"royalroad.com":          ".author-note-portlet,.chapter-content",
 	"slate.fr":               ".field-items",
 	"smbc-comics.com":        "div#cc-comicbody, div#aftercomic",
